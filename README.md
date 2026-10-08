@@ -224,9 +224,9 @@ This project demonstrates practical experience with:
 
 ## 👨‍💻 Author
 
-**Sourab Galphade**
+**Sourab**
 
-GitHub: [@sourab](https://github.com/sourab)
+GitHub: [@sourab-codes](https://github.com/sourab-codes)
 
 ---
 
